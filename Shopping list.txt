@@ -1,5 +1,6 @@
 Shopping list 
 
-Aplles
+Apples
 Pears
 Cherries
+Cereal
